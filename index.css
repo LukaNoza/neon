@@ -38,7 +38,7 @@ a:hover{
 }
 
 a:nth-child(1){
-    filter: hue-rotate(270deg);
+    filter: hue-rotate(300deg);
 }
 
 a:nth-child(3){
